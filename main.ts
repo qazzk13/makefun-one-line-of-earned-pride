@@ -2,7 +2,7 @@ process.umask(0o022);
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
-// The entry: one line about persistence finally paying off in code review.
+// The entry: one line about persistence in review finally paying off.
 const ENTRY =
   'Three weeks of my patches got rejected in review, then yesterday the maintainer merged my fix for the crash nobody else could reproduce and just wrote "finally".';
 
