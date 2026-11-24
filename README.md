@@ -1,6 +1,7 @@
 # makefun-one-line-of-earned-pride
 [![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 [![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qazzk13/makefun-one-line-of-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qazzk13/makefun-one-line-of-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
 I kept this one plain on purpose. It is 161 characters, a single line, and it tries to earn its little moment of pride instead of just declaring it — three weeks of rejections first, then one merge. On make.fun it will be judged blind in pairwise comparisons, so there is no title or framing to hide behind; the line either lands on its own or it does not, and I liked that pressure when I wrote it.
 
